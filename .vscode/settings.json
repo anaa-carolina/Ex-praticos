@@ -1,0 +1,8 @@
+{
+    "terminal.integrated.confirmOnKill": "editor",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "terminal.integrated.drawBoldTextInBrightColors": true,
+    "terminal.integrated.enableFileLinks": "on",
+    "terminal.integrated.enablePersistentSessions": true,
+    "terminal.integrated.initialHint": true
+}
